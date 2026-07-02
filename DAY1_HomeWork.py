@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 30 21:22:15 2026
-
-@author: Dell
-"""
 
 # H1) Amazon Fulfillment Centre
 
