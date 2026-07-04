@@ -1,17 +1,11 @@
-
 # H1) Amazon Fulfillment Centre
-
 # An Amazon fulfillment centre has a conveyor belt with exactly 8 slots numbered 0–7. Each slot holds one product. The warehouse manager needs to:
-
 # Check what's at a slot
 # Find a product
 # Update a slot
 # Check if the belt is full
-
 # The conveyor belt has fixed 8 slots.
-
 belt = ["Empty"] * 8
-
 while True:
     print("\n1. Update Slot")
     print("2. Check Slot")
